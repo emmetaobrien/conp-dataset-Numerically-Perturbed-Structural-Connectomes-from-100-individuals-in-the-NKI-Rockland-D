@@ -62,6 +62,46 @@
                 }
             ]
         },
+		{
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "McGill University"
+                }
+            ]
+        },
+        {
+            "category": "origin_city",
+            "values": [
+                {
+                    "value": "Montreal"
+                }
+            ]
+        },
+        {
+            "category": "origin_province",
+            "values": [
+                {
+                    "value": "Quebec"
+                }
+            ]
+        },
+        {
+            "category": "origin_country",
+            "values": [
+                {
+                    "value": "Canada"
+                }
+            ]
+        },
+		{
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "CONP"
+                }
+            ]
+        },
         {
             "category": "files",
             "values": [
